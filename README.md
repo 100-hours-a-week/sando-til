@@ -5,9 +5,22 @@ Github 클릭 시 해당 관련 Github 코드로 이동
 
 
 
+### [ 11월 넷째주, 5주차 ] - RDS
+
+- [x] [24.11.18](https://github.com/100-hours-a-week/sando-til/blob/main/october/2024-11-18.md) - [ 디버그 ]
 
 
+### [ 11월 셋째주, 4주차 ] - React
+
+- [x] [24.11.15](https://github.com/100-hours-a-week/sando-til/blob/main/october/2024-11-15.md) - [ 데이터베이스(Database) ]
+- [x] [24.11.14](https://github.com/100-hours-a-week/sando-til/blob/main/october/2024-11-14.md) - [ 전역 상태 관리 ]
+- [x] [24.11.13](https://github.com/100-hours-a-week/sando-til/blob/main/october/2024-11-13.md) - [ Axios vs Fetch ]
+- [x] [24.11.11](https://github.com/100-hours-a-week/sando-til/blob/main/october/2024-11-11.md) - [ 커뮤니티 프로젝트 연동 ]
+      
 ### [ 11월 첫째~둘째주, 3주차 ] - 웹 응용
+- [x] [24.11.08](https://github.com/100-hours-a-week/sando-til/blob/main/november/2024-11-08.md) - [ React 세팅 ]
+- [x] [24.11.07](https://github.com/100-hours-a-week/sando-til/blob/main/november/2024-11-07.md) - [ 리눅스 공부 2 ]
+- [x] [24.11.06](https://github.com/100-hours-a-week/sando-til/blob/main/november/2024-11-06.md) - [ 깃 플로우 ]
 - [x] [24.11.05](https://github.com/100-hours-a-week/sando-til/blob/main/november/2024-11-05.md) - [ DNS(Domain Name System) ]
 - [x] [24.11.04](https://github.com/100-hours-a-week/sando-til/blob/main/november/2024-11-04.md) - [ API Document 작성법 ]
 - [x] [24.11.03](https://github.com/100-hours-a-week/sando-til/blob/main/november/2024-11-03.md) - [ 리눅스 공부 ]
